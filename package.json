@@ -1,0 +1,19 @@
+{
+  "name": "webclock",
+  "version": "1.0.0",
+  "description": "studi kasus proyek dari dicoding materi package manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrIrawan/WebClock.git"
+  },
+  "author": "Farrel Irawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrIrawan/WebClock/issues"
+  },
+  "homepage": "https://github.com/MrIrawan/WebClock#readme"
+}
